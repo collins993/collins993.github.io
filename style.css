@@ -1,3 +1,4 @@
+
 *{
 padding:  0;
     margin:  0;
@@ -10,6 +11,8 @@ body{
      border: 10px solid blue;
     color: whitesmoke;
     margin: 0 auto;
+    align-content: center;
+    
 }
 
 .menu-bar {
@@ -64,6 +67,7 @@ img{
     margin: 0 auto;
     display: inline-block;
     margin: 20px;
+     align-content: center;
 }
 
 h6{
@@ -98,6 +102,7 @@ div{
     display: inline-block;
      margin:30 auto;
      margin-left: 150px;
+     align-content: center;
 
 }
 
@@ -106,6 +111,7 @@ div{
      margin:30 auto;
      margin-left: 150px;
     align-content: center;
+    
 }
 
 .foot {
@@ -122,6 +128,7 @@ div{
     margin: 0 auto;
     display: inline-block;
    margin-left: 150px;
+    align-content: center;
     
 }
 
@@ -133,6 +140,7 @@ div{
     margin-bottom: 20px;
 }
 
+   
 
 
 
