@@ -1,4 +1,4 @@
-@media screen and (max-width: 481px){
+
 *{
 padding:  5px;
     margin:  5px;
@@ -6,6 +6,15 @@ padding:  5px;
    
 }
 
+body{
+     background-color: black;
+     
+    color: whitesmoke;
+    margin: 0 auto;
+    align-content: center;
+            padding: 1%;
+    
+}
 .menu-bar {
   
     height: 30vh;
@@ -131,8 +140,7 @@ div{
     margin-bottom: 20px;
 }
 
-    }
-   
+  
 
 
 
