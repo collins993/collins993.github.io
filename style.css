@@ -1,18 +1,9 @@
-
+@media screen and (max-width: 481px){
 *{
-padding:  0;
-    margin:  0;
+padding:  5px;
+    margin:  5px;
     box-sizing: border-box;
    
-}
-
-body{
-     background-color: black;
-     
-    color: whitesmoke;
-    margin: 0 auto;
-    align-content: center;
-    
 }
 
 .menu-bar {
@@ -140,6 +131,7 @@ div{
     margin-bottom: 20px;
 }
 
+    }
    
 
 
